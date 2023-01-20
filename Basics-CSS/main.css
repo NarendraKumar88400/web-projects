@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+section{ 
+    background: #ff1b2e;
+}
+h1{
+    color: #ffff;
+    font-family: 'Dancing Script', cursive;
+}
